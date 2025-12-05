@@ -1,4 +1,4 @@
-"# CSEC-604-Project-Repo" 
+"# Project-Repo" 
 
 Testing-
 In order to test the code these parts must be replaced by the user in both the scripts: 
